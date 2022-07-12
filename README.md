@@ -1,4 +1,6 @@
-### OLÁ! Prazer, sou o Wesley 
+ 
+### HELLO! Nice to meet you, I'm Wesley
+
 
   - 💻 I'm currently Learning Python, Js, Bd ...
   - 📚 I'm currently studying Software Engineering ...
