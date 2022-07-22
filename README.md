@@ -4,7 +4,7 @@
 
 
 <div style="display: inline_block" >
-<img align="right" height="150" src="https://github.com/w3ssfs/w3ssfs/blob/main/safeimage.png"/>
+<img align="right" height="130" src="https://github.com/w3ssfs/w3ssfs/blob/main/safeimage.png"/>
 
 
 
