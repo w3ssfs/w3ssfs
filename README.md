@@ -4,6 +4,8 @@
 
 
 <div style="display: inline_block" >
+<img align="right" height="160" src="https://github.com/w3ssfs/w3ssfs/blob/main/safeimage.png"/>
+
 
 
 <p> - 💻 I'm currently Learning Python, Js, Bd ...</p>
