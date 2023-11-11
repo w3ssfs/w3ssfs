@@ -8,7 +8,7 @@
 
 
 
-<p> - 💻 I'm currently Learning Python, Js, Bd ...</p>
+<p> - 💻 I'm currently Learning React, nodeJS, mongoDB ...</p>
 <p> - 📚 I'm currently studying Software Engineering ...</p>
 <p> - 📫 how to reach me: wesleyfranca001@gmail.com ...</p>
 <p>  - 📢 Languages: English and Portuguese ...</p>
