@@ -1,61 +1,43 @@
- <div align="center">
-  <h1>HELLO! Nice to meet you, I'm Wesley</h1> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wesley+França;I'm+23+years+old;I'm+from+Brazil;I+Graduated+Software+Engineering)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=w3ssfs&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117" alt="Wesley França github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3ssfs&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w3ssfs&bg_color=0d1117&color=6495ED&line=1E90FF&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+<div align="center"> 
+<a href="https://instagram.com/wesleyy.franca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cmp.1a.wesleyfranca001@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wessfranca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
-<div style="display: inline_block" >
-<img align="right" height="130" src="https://github.com/w3ssfs/w3ssfs/blob/main/safeimage.png"/>
 
 
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<p> - 💻 I'm currently Learning React, nodeJS, mongoDB ...</p>
-<p> - 📚 I'm currently studying Software Engineering ...</p>
-<p> - 📫 how to reach me: wesleyfranca001@gmail.com ...</p>
-<p>  - 📢 Languages: English and Portuguese ...</p>
-</div>
- 
 <div align="center">
- 
-  <a href="https://github.com/w3ssfs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w3ssfs&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3ssfs&layout=compact&langs_count=7&theme=highcontrast"/>
- 
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{w3ssfs}/count.svg" /></p> 
+<br>
 </div>
 
- <div align="center">
-  <h2>Tecnologias </h2> 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="wess-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="wess-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="wess-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="wess-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="wess-Csharp" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  
-  <img align="center" alt="wess-Csharp" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
-  <img align="center" alt="wess-Csharp" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-  <img align="center" alt="wess-Csharp" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
 
- </div>
-  
-##
-  
-  <div> 
-
-<p align="center">
-<h2>Redes Sociais</h2> 
-   <a href = "wesleyfranca001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/wessfranca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
- <p align="center"> 
-  <div>
- </p>
- 
-  </div>
-</p>
-<p align="center"> 
-
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/w3ssfs/count.svg" />
- </p>
- 
- </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
