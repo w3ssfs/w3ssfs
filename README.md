@@ -4,9 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=w3ssfs&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117" alt="Wesley França github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3ssfs&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=0d1117" />
+<div align="center"> 
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=w3ssfs&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=w3ssfs&theme=blueberry)
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w3ssfs&bg_color=0d1117&color=6495ED&line=1E90FF&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
