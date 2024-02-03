@@ -8,15 +8,20 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=w3ssfs&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=w3ssfs&theme=blueberry)
+</div>
+
+<br>
+
+# 📊 GitHub Stats
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=w3ssfs&theme=blueberry)
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w3ssfs&bg_color=0d1117&color=6495ED&line=1E90FF&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
-
-
-
-
+# 📫 Connect With Me
 <div align="center"> 
 <a href="https://instagram.com/wesleyy.franca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:cmp.1a.wesleyfranca001@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
